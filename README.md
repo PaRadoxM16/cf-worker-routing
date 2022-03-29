@@ -1,5 +1,4 @@
 # cf-worker-routing
-Basic approach to using routes with cloudflare workers
 
 `Description:`
 
